@@ -6,10 +6,6 @@ import com.bank.ui.*;
 import com.bank.util.*;
 
 public class MaxBalance extends Exception {
-
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	
 	public MaxBalance(String s)
